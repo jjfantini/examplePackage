@@ -1,0 +1,36 @@
+{
+  "template": "https://github.com/humblFINANCE/cookiecutter-python",
+  "commit": "00e0adf6397ce1ea1073e046f034855100ad4977",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "package_name": "examplepackage",
+      "package_description": "is a template for a strict package build using my python cookiecutter template.",
+      "package_url": "https://github.com/jjfantini/examplePackage.git",
+      "author_name": "Jennings Fantini",
+      "author_email": "jjman2811@gmail.com",
+      "github_username": "jjfantini",
+      "python_version": "3.12.1",
+      "docker_image": "python:3.12.1-slim",
+      "development_environment": "strict",
+      "with_conventional_commits": "1",
+      "with_micromamba": "1",
+      "with_fastapi_api": "0",
+      "with_streamlit_app": "0",
+      "with_typer_cli": "0",
+      "with_jupyter_lab": "1",
+      "with_pydantic_typing": "1",
+      "with_pandera_models": "1",
+      "with_sentry_logging": "1",
+      "continuous_integration": "GitHub",
+      "documentation_tool": "sphinx",
+      "docstring_style": "NumPy",
+      "private_package_repository_name": "",
+      "private_package_repository_url": "",
+      "__package_name_kebab_case": "examplepackage",
+      "__package_name_snake_case": "examplepackage",
+      "_template": "https://github.com/humblFINANCE/cookiecutter-python"
+    }
+  },
+  "directory": null
+}
